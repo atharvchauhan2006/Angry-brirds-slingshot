@@ -1,1 +1,1 @@
-# Angry-brirds-slingshot
+# Angry-birds-slingshot
